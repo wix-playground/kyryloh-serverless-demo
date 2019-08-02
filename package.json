@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wix-playground/kyryloh-serverless-demo/issues"
   },
-  "homepage": "https://github.com/wix-playground/kyryloh-serverless-demo#readme"
+  "homepage": "https://github.com/wix-playground/kyryloh-serverless-demo#readme",
+  "devDependencies": {
+    "@wix/serverless-testkit": "^1.0.130"
+  }
 }
